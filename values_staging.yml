@@ -1,5 +1,5 @@
 replicas: 1
 image:
-  repository: yagan93/spring
+  repository: MSLVRNR1/spring
   tag: 1.0.0
 environment: staging
